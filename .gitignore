@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Thomerson.Algorithm/.vs/Thomerson.Algorithm/v15
+/Thomerson.Algorithm/Sort/bin/Debug/netcoreapp2.0
+/Thomerson.Algorithm/Sort/obj
+/Thomerson.Algorithm/Thomerson.Algorithm/bin/Debug/netcoreapp2.0
+/Thomerson.Algorithm/冒泡排序/bin/Debug/netcoreapp2.0
+/Thomerson.Algorithm/冒泡排序/obj
+/Thomerson.Algorithm/Thomerson.Algorithm/obj
+/Thomerson.Algorithm/快速排序/obj
+/Thomerson.Algorithm/插入排序/obj
+/Thomerson.Algorithm/选择排序/bin/Debug/netcoreapp2.0
+/Thomerson.Algorithm/选择排序/obj
