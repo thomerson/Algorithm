@@ -7,13 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thomerson.Algorithm", "Thom
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sort", "Sort", "{1F235BD1-2BE8-4BD0-9785-6DBA60E5BF7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.冒泡排序", "冒泡排序\1.冒泡排序.csproj", "{657C4C3B-5FEA-40D2-A330-5420827849BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.冒泡排序", "冒泡排序\1.冒泡排序.csproj", "{657C4C3B-5FEA-40D2-A330-5420827849BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.选择排序", "选择排序\2.选择排序.csproj", "{82F3D728-8317-4D53-98AB-A6108C64D0DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.选择排序", "选择排序\2.选择排序.csproj", "{82F3D728-8317-4D53-98AB-A6108C64D0DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "插入排序", "插入排序\插入排序.csproj", "{F8CBFE31-9CB7-468B-9A60-A2A96DE84D9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "插入排序", "插入排序\插入排序.csproj", "{F8CBFE31-9CB7-468B-9A60-A2A96DE84D9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "快速排序", "快速排序\快速排序.csproj", "{C4AD27D6-1FF3-470C-AC88-E418582A3F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "快速排序", "快速排序\快速排序.csproj", "{C4AD27D6-1FF3-470C-AC88-E418582A3F87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
